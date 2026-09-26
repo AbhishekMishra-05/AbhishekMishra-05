@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Abhishek Mishra, a Computer Science graduate and Software Developer focused on Backend and Full-Stack Development.<br><br>I build practical and scalable applications using Java, Spring Boot, Spring MVC, REST APIs, Python, JavaScript, React.js, SQL, PostgreSQL, MySQL, MongoDB, Firebase, and Firestore.<br><br>I have experience building real-time communication platforms, food ordering systems, authentication workflows, and AI-powered applications. I'm also exploring Data Engineering, Data Processing, PySpark, Hadoop, and AI/ML technologies.<br><br>💻 Interested in Software Engineering | Java Development | Backend Development | Spring Boot | Full-Stack Development | REST APIs | Data Engineering | AI Applications
 
 
