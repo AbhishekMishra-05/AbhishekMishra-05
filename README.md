@@ -1,202 +1,96 @@
-# 👋 Hi, I'm Abhishek Mishra
+# Abhishek Mishra
 
-### 💻 Software Developer | Java Backend Developer | Spring Boot Developer
+### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
-Computer Science graduate focused on **Java Backend Development, Spring Boot, REST APIs, Full-Stack Development, and Data Engineering**.
+Computer Science graduate (KIIT University) who builds backend systems with **Java and Spring Boot**: REST APIs, authentication, real-time features, and database design. I also build the frontend when a project needs it.
 
-I build practical applications using **Java, Spring Boot, Python, React.js, SQL, PostgreSQL, MongoDB, and REST APIs**, while exploring **AI/ML, LLMs, RAG, and Data Engineering**.
+**Open to:** Java Developer · Backend Developer · Spring Boot Developer · Software Engineer roles
 
-🌐 **Portfolio:** [abhishek-mishra-portfolio-xi.vercel.app](https://abhishek-mishra-portfolio-xi.vercel.app/)
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science graduate from **KIIT University**
-- 💻 Focused on **Java Backend Development & Spring Boot**
-- 🔧 Experienced in building **REST APIs and full-stack applications**
-- 🗄️ Experienced with **SQL and NoSQL databases**
-- 🧪 Experienced with **Postman for API testing**
-- 🐳 Familiar with **Docker and application deployment**
-- 📊 Exploring **Data Engineering, PySpark, Hadoop, and data processing**
-- 🤖 Interested in **AI-powered applications, LLMs, and RAG**
-- 🌱 Continuously improving **DSA, backend development, and system design**
-- 💼 Open to **Software Engineer, Java Developer, Backend Developer, Spring Boot Developer & Full-Stack Developer** opportunities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-mishra-951667272)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmishra26789@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-mishra-portfolio-xi.vercel.app/)
 
 ---
 
-## 🛠️ Tech Stack
+## Quick Snapshot
 
-### ☕ Backend Development
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
-
-### 🌐 Frontend Development
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Backend Services
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🐍 Programming & Data Engineering
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
-### 🧪 Tools & Development
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-### 🤖 AI / LLM
-
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+| | |
+|---|---|
+| **Primary stack** | Java, Spring Boot, Spring MVC, REST APIs, Maven |
+| **Data** | SQL, PostgreSQL, MySQL, MongoDB |
+| **Auth & real-time** | JWT, WebSockets |
+| **Tools** | Git, GitHub, Docker, Postman, IntelliJ IDEA |
+| **Also used** | React.js, Node.js/Express, Python |
+| **Currently learning** | System design, DSA, PySpark, Hadoop, RAG/LLMs |
 
 ---
 
-# 🚀 Featured Projects
+## Skills
 
-## 💬 NexChat
+**Core (what I use most)**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Real-Time Chat & Calling Application**
+**Working knowledge**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Full-stack communication platform built with **Java, Spring Boot, React.js, PostgreSQL, REST APIs, WebSockets, JWT, and Docker**.
-
-- 🔐 Authentication & authorization
-- 💬 Real-time messaging
-- 📞 Audio & video calling
-- 📁 File sharing
-- 🗄️ PostgreSQL database
-- 🔌 REST API & WebSocket communication
-- 🐳 Dockerized backend
-
-🔗 [View on GitHub](https://github.com/AbhishekMishra-05/NexChat)
-
----
-
-## 🍽️ Restrofy
-
-**Food Ordering & Restaurant Management Platform**
-
-Built using **React Native, Node.js, Express.js, Firebase, Firestore, Razorpay, FCM, and Cloudflare R2**.
-
-- 📱 QR-based menu access
-- 🛒 Food ordering
-- 👨‍🍳 Restaurant management
-- 🔐 Firebase authentication
-- 🔔 Push notifications
-- 💳 Razorpay payment integration
-- ☁️ Cloud storage
+**Exploring**
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 ---
 
-## 🤖 InterviewMate
+## Featured Project
 
-**AI-Powered Interview Platform**
+### NexChat: Real-Time Chat & Calling Platform
+**Java · Spring Boot · PostgreSQL · WebSockets · JWT · React.js · Docker**
 
-Built using **Next.js, TypeScript, Tailwind CSS, and Gemini API**.
+A full-stack messaging app with a Spring Boot backend that handles auth, real-time messaging, and calling.
 
-- 🎯 Technology-specific interviews
-- 🤖 AI-generated questions
-- 📝 Response evaluation
-- 📊 Performance analysis
-- 💡 AI-powered feedback
+- Secured APIs with **JWT-based authentication and authorization**
+- Built **real-time messaging** using WebSockets alongside REST endpoints
+- Added **audio/video calling** and **file sharing**
+- Designed the **PostgreSQL** schema and **containerized the backend with Docker**
 
-🔗 [View on GitHub](https://github.com/AbhishekMishra-05/interviewmate)
-
----
-
-## 🧠 TUDU
-
-**AI Personal Assistant**
-
-Python-based AI assistant built using **Streamlit, Hugging Face, Ollama, and local LLMs**.
-
-- 🐍 Python application
-- 🤖 Local LLM integration
-- 🧠 AI assistant capabilities
-- ⚡ Streamlit interface
-
-🔗 [View on GitHub](https://github.com/AbhishekMishra-05/tudu)
+[View Code →](https://github.com/AbhishekMishra-05/NexChat)
 
 ---
 
-# 🎯 Current Focus
+## Other Projects
 
-**Backend:**  
-`Java` → `Spring Boot` → `REST APIs` → `SQL` → `PostgreSQL` → `Docker`
-
-**Data Engineering:**  
-`Python` → `SQL` → `Pandas` → `PySpark` → `Hadoop`
-
-**AI:**  
-`LLMs` → `RAG` → `Gemini API` → `Hugging Face` → `Ollama`
+| Project | What it is | Tech | Link |
+|---|---|---|---|
+| **Restrofy** | Restaurant ordering platform with QR menus, payments (Razorpay), and push notifications | React Native, Node.js, Express, Firebase | — |
+| **InterviewMate** | AI mock-interview app that generates questions and evaluates answers | Next.js, TypeScript, Gemini API | [Code](https://github.com/AbhishekMishra-05/interviewmate) |
+| **TUDU** | Local AI assistant running on open-source LLMs | Python, Streamlit, Ollama, Hugging Face | [Code](https://github.com/AbhishekMishra-05/tudu) |
 
 ---
 
-# 📊 GitHub Statistics
+## Current Focus
+
+- Going deeper on **Spring Boot** (Spring Security, JPA/Hibernate, testing) and **system design**
+- Regular **DSA** practice
+- Learning **data engineering** (PySpark, Hadoop) and **RAG-based AI apps**
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AbhishekMishra-05&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbhishekMishra-05&theme=dark&hide_border=true&layout=compact" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbhishekMishra-05&theme=dark&hide_border=true"/>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/abhishek-mishra-951667272">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api?username=AbhishekMishra-05&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="160"/>
   &nbsp;
-  <a href="mailto:abhishekmishra26789@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AbhishekMishra-05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://abhishek-mishra-portfolio-xi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbhishekMishra-05&theme=dark&hide_border=true&layout=compact" height="160"/>
 </p>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=AbhishekMishra-05&label=Profile%20Views&color=0e75b6&style=flat)
-
-⭐ Thanks for visiting my profile!
