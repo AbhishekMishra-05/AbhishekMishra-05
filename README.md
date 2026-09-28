@@ -16,7 +16,7 @@ Computer Science graduate (KIIT University) who builds backend systems with **Ja
 
 | | |
 |---|---|
-| **Primary stack** | Java, Spring Boot, Spring MVC, REST APIs, Maven |
+| **Primary stack** | Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA/Hibernate, REST APIs, Maven |
 | **Data** | SQL, PostgreSQL, MySQL, MongoDB |
 | **Auth & real-time** | JWT, WebSockets |
 | **Tools** | Git, GitHub, Docker, Postman, IntelliJ IDEA |
@@ -56,16 +56,17 @@ Computer Science graduate (KIIT University) who builds backend systems with **Ja
 ## Featured Project
 
 ### NexChat: Real-Time Chat & Calling Platform
-**Java · Spring Boot · PostgreSQL · WebSockets · JWT · React.js · Docker**
+**Java · Spring Boot · Spring Security · Spring Data JPA · PostgreSQL · WebSockets · JWT · React.js · Docker**
 
 A full-stack messaging app with a Spring Boot backend that handles auth, real-time messaging, and calling.
 
-- Secured APIs with **JWT-based authentication and authorization**
+- Secured APIs with **JWT authentication and authorization using Spring Security**
 - Built **real-time messaging** using WebSockets alongside REST endpoints
+- Persisted users, messages, and files in **PostgreSQL via Spring Data JPA/Hibernate**
 - Added **audio/video calling** and **file sharing**
-- Designed the **PostgreSQL** schema and **containerized the backend with Docker**
+- **Containerized the backend with Docker**
 
-[View Code →](https://github.com/AbhishekMishra-05/NexChat)
+[**Live Demo →**](https://nex-chat-gamma.vercel.app/) · [**View Code →**](https://github.com/AbhishekMishra-05/NexChat)
 
 ---
 
@@ -81,7 +82,7 @@ A full-stack messaging app with a Spring Boot backend that handles auth, real-ti
 
 ## Current Focus
 
-- Going deeper on **Spring Boot** (Spring Security, JPA/Hibernate, testing) and **system design**
+- Going deeper on **Spring Boot** (unit/integration testing, caching, microservices) and **system design**
 - Regular **DSA** practice
 - Learning **data engineering** (PySpark, Hadoop) and **RAG-based AI apps**
 
